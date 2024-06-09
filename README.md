@@ -11,14 +11,14 @@ This repository contains a Data Science and Machine Learning project that predic
 The dataset used in this project is sourced from the "Movie Rating Prediction" dataset, which includes genres and rating information about movies of various genres released in different years. The dataset is provided in a CSV format (ratings.csv).
 
 # **Features**
-*user_id - id number of a particular user whobrated the movie.
-*movie_id - id number a particular movie.
-*rating - the rating scale goes  from 0 to 5 for a particular movie.
-*genres - the genre decribes the movie in one word.
-*production_companies	- the company that produced the particular movie
-*production_countries	- the country where the movie was produced.
-*release_year	- in which year the movie released?
-*overview - an overview of the movie.
+1.user_id - id number of a particular user whobrated the movie.
+2.movie_id - id number a particular movie.
+3.rating - the rating scale goes  from 0 to 5 for a particular movie.
+4.genres - the genre decribes the movie in one word.
+5.production_companies	- the company that produced the particular movie
+6.production_countries	- the country where the movie was produced.
+7.release_year	- in which year the movie released?
+8.overview - an overview of the movie.
 
 # **Project Structure**
 The project is organized as follows:
