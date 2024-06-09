@@ -5,7 +5,7 @@ Movie Rating Prediction Model using Logistic Regression.
 
 # Movie rating Prediction with Logistic Regression
 
-This repository contains a Data Science and Machine Learning project that predicts movie rating using a logistic regression model. The model leverages key features such as genres, production_companies, production_countries, release_year,movie_id,rating and rating to predict the movie rating.
+This repository contains a Data Science and Machine Learning project that predicts movie rating using a logistic regression model. The model leverages key features such as genres, production_companies, production_countries, release_year, movie_id and rating to predict the movie rating.
 
 # **Dataset**
 The dataset used in this project is sourced from the "Movie Rating Prediction" dataset, which includes genres and rating information about movies of various genres released in different years. The dataset is provided in a CSV format (ratings.csv).
